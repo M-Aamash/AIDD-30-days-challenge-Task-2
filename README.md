@@ -51,7 +51,7 @@ Agar sab kuch raw code me ho, to project jaldi messy ho jata hai aur maintain ka
 
 ### Task:Using any AI CLI tool, generate a 1-paragraph specification for an email validation function.
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/M-Aamash/AIDD-30-days-challenge-Task-2/refs/heads/main/WhatsApp%20Image%202025-11-17%20at%2010.00.58%20PM.jpeg)
 
 
 ## 📁Part C — Multiple Choice Questions
