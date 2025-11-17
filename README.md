@@ -75,6 +75,3 @@ Agar sab kuch raw code me ho, to project jaldi messy ho jata hai aur maintain ka
 #### 5. What defines an M-Shaped Developer?
 
 ✅ C. Deep skills in multiple related domains
-Specification-Driven Development me hum pehle proper plan, structure aur requirements define karte hain.
-Is liye kaam clear, samajh aane wala aur stable hota hai.
-Agar kahin problem aaye bhi, to use solve karna aasaan hota hai kyun ke har cheez pehle se defined hoti hai.
